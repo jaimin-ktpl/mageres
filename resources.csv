@@ -21,6 +21,7 @@ Certification,Magento 2,Magento 2 Certified Frontend Developer Study Guide,https
 Certification,Magento 2,Magento 2 Certified Frontend Developer Practice Test,https://swiftotter.com/technical/certifications/magento-2-certified-associate-developer-practice-test,Sample practice test for the Magento 2 Certified Frontend Developer exam by SwiftOtter
 Books,Magento 1,Getting Started with Magento Extension Development,https://www.packtpub.com/web-development/getting-started-magento-extension-development,"A practical guide to building Magento modules from scratch; by Branko Ajzele, September 2013"
 Books,Magento 1,Magento Best Practices Handbook,https://leanpub.com/magebp,"A collection of practical advices to develop with Magento the right way; by Alessandro Ronchi, September 2015"
+Books,Magento 1,Grokking Magento,http://vinaikopp.com/grokking/,"Advanced Magento 1 development; by Vinai Kopp, March 2014"
 Books,Magento 1,Magento PHP Developer's Guide,http://magedevguide.com/,"A giude that helps new developers to quickly pickup the fundamentals of Magento system; by Allan MacGregor, April 2013"
 Books,Magento 1,Magento Product Types: Developer's Guide,https://leanpub.com/magentoproducttypesdevelopersguide,"A book that gives a deep inside on Magento product types; by Oleg Ishenko, October 2014"
 Books,Magento 1,Magento Search Engine Optimization,https://www.packtpub.com/web-development/magento-search-engine-optimization,"A book that uncovers the deep secrets of successful Search Engine Optimization; by Robert Kent, January 2014"
@@ -44,6 +45,7 @@ Books,Magento 2,Magento 2 Beginners Guide,https://www.packtpub.com/web-developme
 Books,Magento 2,Magento 2 Theme Design – Second Edition,https://www.packtpub.com/web-development/magento-2-theme-design-second-edition,"A starting guide to create responsive Magento 2 themes; by Fernando J Miguel & Richard Carter, October 2016"
 Books,Magento 2,Magento 2 - Build World-Class online stores,https://www.packtpub.com/web-development/magento-2-build-world-class-online-stores,"A guide on how to develop rich and compelling Magento 2 solutions, themes, and extensions; by Fernando J Miguel et al, March 2017"
 Books,Magento 2,Magento 2 Guida allo sviluppo,https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551,"This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018"
+Books,Magento 2,Magento 2 Development Quick Start Guide,https://www.packtpub.com/web-development/magento-2-development-quick-start-guide,"This book guides you through Magento development; by Branko Ajzele, September 2018"
 Tools,Free,MageMeter,http://www.magemeter.com/,Magento Benchmarks metered using official Magento Performance Toolkit
 Tools,Free,Magereverse,http://www.magereverse.com/,MAGEREVERSE is an online Database Diagram Tool dedicated to Magento 1 eCommerce CE Edition.
 Tools,Free,Modman (Module Manager),https://github.com/colinmollenhour/modman,Allows you to separate your Magento 1 files from core files and keep different extensions under version control
@@ -65,6 +67,8 @@ Security,,MageReport.com,https://www.magereport.com/,Scan your Magento shop for 
 Security,,Magento Extension Security research,https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform,Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
 Security,,Magento-Pre-Patched-Files,https://github.com/magecomp/Magento-Pre-Patched-Files,Pre Patched files for installing Magento Security Patches without SSH.
 Security,,Mage Security Patcher,https://github.com/magesec/magesecuritypatcher,An effective alternative to the standard magento patches.
+Security,,Magento Malware Scanner,https://github.com/gwillem/magento-malware-scanner,"Scanner, signatures and the largest Magento malware collection on earth"
+Security,,Magento Security Scan Tool,https://account.magento.com/scanner/,"Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account)."
 Extensions,Magento 1,Magneto Debug,https://github.com/madalinoprea/magneto-debug,Magento 1.x developer debug toolbar
 Extensions,Magento 1,AOE Profiler,https://github.com/AOEpeople/Aoe_Profiler,A drop-in replacement for the Varien_Profiler that captures all data and also records its hierarchal information and displays everything in a nice way
 Extensions,Magento 1,AOE Scheduler for Magento,https://github.com/AOEpeople/Aoe_Scheduler,"Sits on top of Magento's default cron functionality allowing you to manage the jobs, to visualize the timeline and to get some deeper insight on what's going on behind the scenes"
@@ -107,6 +111,8 @@ Extensions,Magento 2,Mgt Developer Toolbar for Magento 2,https://github.com/mgtc
 Extensions,Magento 2,Magento 2 Deployer Plus,https://github.com/jalogut/magento2-deployer-plus,Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects
 Extensions,Magento 2,Magento 2 Cache Clean,https://github.com/mage2tv/magento-cache-clean,A faster drop in replacement for bin/magento cache:clean with file watcher
 Extensions,Magento 2,AvS_DisableModules,https://github.com/avstudnitz/AvS_DisableModules,Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
+Extensions,Magento 2,Fisheye_UrlRewriteOptimiser,https://github.com/fisheyehq/module-url-rewrite-optimiser,A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
+Extensions,Magento 2,MX Phinx Migrations,https://github.com/inviqa/MX_PhinxMigrations,"Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments."
 Testing frameworks,,Digital Pianism Test Framework,https://github.com/digitalpianism/testframework,A simple framework to be used to create unit and integration tests on Magento 1
 Testing frameworks,,EcomDev PHPUnit,https://github.com/EcomDev/EcomDev_PHPUnit,Magento PHPUnit Integration **unmaintained**
 Testing frameworks,,Magium,https://github.com/magium/Magium,A PHPUnit/Webdriver (Selenium) based test framework
@@ -232,7 +238,6 @@ Communities,,Magento Forum,http://www.magentocommerce.com/boards/,"The ""brand n
 Communities,,Magento Community Digest,https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true,#MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 Communities,,Magento Freelance Directory,http://magento-freelance-directory.velocv.com/,Magento Freelance Directory on VeloCV
 Communities,,Magento Stack Exchange,http://magento.stackexchange.com/,Q&A site for users of Magento e-Commerce platform
-Communities,,MageHero,http://magehero.com/,Awesome Magento Developers
 Communities,,Reddit,http://www.reddit.com/r/Magento/,Magento Sub-Reddit
 Associations,,ExtDN,https://extdn.org/,A network of leading Magento extension developers
 Associations,,Firegento,http://firegento.com/,A group of Magento enthusiasts developing open source modules and organising Hackathons and other events
@@ -272,6 +277,7 @@ Dev boxes,Docker,The Devilbox,https://github.com/cytopia/devilbox,A modern docke
 Dev boxes,Docker,Magento 2 Docker,https://github.com/meanbee/docker-magento2,A collection of Docker images for running Magento 2 through nginx and on the command line
 Dev boxes,Docker,Magento Cloud Docker,https://github.com/magento/magento-cloud-docker,A collection of build configurations for Magento Cloud Docker images
 Dev boxes,Docker,Magento 2 Dockergento,https://github.com/ModestCoders/magento2-dockergento,Magento 2 docker setup for development optimised for Mac
+Dev boxes,Docker,Mark Shust's Docker Configuration for Magento,https://github.com/markoshust/docker-magento,
 Dev boxes,Vagrant,Chef Devbox,https://github.com/AOEpeople/chef-devbox,Designed by AOE with Magento in mind but usable for every LAMP stack based applications
 Dev boxes,Vagrant,Development Environment,https://github.com/davidalger/devenv,Magento 1 and Magento 2 Vagrant Development Environment for Mac OS X Hosts
 Dev boxes,Vagrant,Fast Hypernode Vagrant Box,https://github.com/ecomdev/fast-hypernode/,The fastest Magento Vagrant VM Fast Byte Hypernode Box

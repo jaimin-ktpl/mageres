@@ -1,4 +1,4 @@
-# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![286 resources](https://img.shields.io/badge/resources-286-orange.svg?style=flat)
+# Magento Resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md) ![292 resources](https://img.shields.io/badge/resources-292-orange.svg?style=flat)
 
 A curated list of **useful Magento resources**.
 Resources are listed **alphabetically** within each category.
@@ -70,6 +70,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ### Magento 1
 * [Getting Started with Magento Extension Development](https://www.packtpub.com/web-development/getting-started-magento-extension-development) - A practical guide to building Magento modules from scratch; by Branko Ajzele, September 2013
+* [Grokking Magento](http://vinaikopp.com/grokking/) - Advanced Magento 1 development; by Vinai Kopp, March 2014
 * [Magento 1.8 Development Cookbook](https://www.packtpub.com/web-development/magento-18-development-cookbook) - A book that helps you build a truly impressive customized online store; by Bart Delvaux & Nurul Ferdous, February 2014
 * [Magento Best Practices Handbook](https://leanpub.com/magebp) - A collection of practical advices to develop with Magento the right way; by Alessandro Ronchi, September 2015
 * [Magento PHP Developer's Guide](http://magedevguide.com/) - A giude that helps new developers to quickly pickup the fundamentals of Magento system; by Allan MacGregor, April 2013
@@ -88,6 +89,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Developer's Guide](https://www.packtpub.com/web-development/magento-2-developers-guide) - A step-by-step guide on how to extend the core functionality of your Magento 2 store; by Branko Ajzele, December 2015
 * [Magento 2 Development Cookbook](https://www.packtpub.com/web-development/magento-2-development-cookbook) - Over 60 recipes that will tailor and customize your experience with Magento 2; by Bart Delvaux, December 2015
 * [Magento 2 Development Essentials](https://www.packtpub.com/web-development/magento-2-development-essentials) - A fast-paced tutorial that provides you with skills to successfully create themes, extensions, and solutions to Magento 2 projects; by Fernando J Miguel, February 2016
+* [Magento 2 Development Quick Start Guide](https://www.packtpub.com/web-development/magento-2-development-quick-start-guide) - This book guides you through Magento development; by Branko Ajzele, September 2018
 * [Magento 2 DIY. The Complete Guide](https://leanpub.com/magento2diy) - An overview of the platform and  its current technology stack, API, and features; by Viktor Khliupko, March 2016
 * [Magento 2 Extensions Development](https://www.packtpub.com/web-development/magento-extensions-development) - A book about the writing of innovative and complex extensions; by Jérémie Bouchet, June 2016
 * [Magento 2 Guida allo sviluppo](https://www.amazon.it/Magento-2-Guida-allo-sviluppo/dp/8868956551) - This book focuses on module developing best practices (Italian version only); by Michele Fantetti, May 2018
@@ -120,7 +122,9 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 ## Security
 * [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files) - Pre Patched files for installing Magento Security Patches without SSH.
 * [Magento Extension Security research](https://docs.google.com/forms/d/1gLvwzJlBfqCcr4NbHmm557wNvDpDuKmFlznL2vyt3fI/viewform) - Submit your open source Magento 1 extensions for vulnerabilities review by Talesh Seeparsan
+* [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Scanner, signatures and the largest Magento malware collection on earth
 * [Magento Security Center](http://magento.com/security/) - The dedicated resource to stay abreast of the latest security news, best practices, patch releases and bug fixes
+* [Magento Security Scan Tool](https://account.magento.com/scanner/) - Monitor your sites for security risks, update malware patches, and detect unauthorized access with Magento Security Scan, the latest FREE tool from Magento Commerce (requires login with Magento account).
 * [Magento SUPEE-6788 Developer Toolbox](https://github.com/rhoerr/supee-6788-toolbox) - Must-have tool to apply SUPEE-6788 patch
 * [MageReport.com](https://www.magereport.com/) - Scan your Magento shop for known security vulnerabilities
 * [Mage Security Patcher](https://github.com/magesec/magesecuritypatcher) - An effective alternative to the standard magento patches.
@@ -162,6 +166,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [AvS_DisableModules](https://github.com/avstudnitz/AvS_DisableModules) - Adds a shell command info:dependencies:show-removable which exports all modules which have no dependencies
 * [Danslo CleanCheckout](https://github.com/danslo/CleanCheckout) - A drop-in replacement for the Magento 2 checkout
 * [ElasticSuite for Magento 2 ](https://github.com/Smile-SA/elasticsuite) - A feature-rich merchandising suite for Magento 2.
+* [Fisheye_UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) - A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) - This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 * [Magento 2 Bash Install/Restore Script](https://github.com/yvoronoy/m2install) - A script designed to simplify the installation process of Magento 2 and rapid deployment of merchant code and DB dumps.
@@ -172,6 +177,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - intended to be used with [MSP Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar)
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) - A dev toolbar that shows all important information for performance optimisation and Magento development.
 * [MSP_SMTP](https://github.com/magespecialist/m2-MSP_SMTP) - MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
+* [MX Phinx Migrations](https://github.com/inviqa/MX_PhinxMigrations) - Integrates https://phinx.org/ migrations as a replacement for Magento's built-in setup upgrade process, enabling zero-downtime deployments.
 * [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) - Add Google Tag Manager to Magento2
 
 ## Testing frameworks
@@ -308,7 +314,6 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Communities
 * [Commerce Hero](https://commercehero.io) - Good Magento Developers at your fingertips
-* [MageHero](http://magehero.com/) - Awesome Magento Developers
 * [Magento Community Digest](https://community.magento.com/t5/forums/searchpage/tab/message?q=%23MagentoMonday&sort_by=-topicPostDate&collapse_discussion=true) - #MagentoMonday Community Digest by [@sherrierohde](https://twitter.com/sherrierohde)
 * [Magento Forum](http://www.magentocommerce.com/boards/) - The "brand new" Magento forum
 * [Magento Freelance Directory](http://magento-freelance-directory.velocv.com/) - Magento Freelance Directory on VeloCV
@@ -365,6 +370,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) - Docker image optimized to develop in Mac, Windows, and Linux
 * [Magento 2 with DB manager](https://github.com/ilampirai/docker-magento2) - Magento 2 with DB manager running easily in just one build / run
 * [Magento Cloud Docker](https://github.com/magento/magento-cloud-docker) - A collection of build configurations for Magento Cloud Docker images
+* [Mark Shust's Docker Configuration for Magento](https://github.com/markoshust/docker-magento)
 * [Meanbee Environment Example](https://github.com/meanbee/magento2-environment) - Development environment for Magento 2 builds based on PHP 7  NGINX  MySql
 * [MGT Development Environment](https://www.mgt-commerce.com/cms/mgt-development-environment) - Local Development Environment for Magento 1 and Magento 2 based on Docker
 * [The Devilbox](https://github.com/cytopia/devilbox) - A modern dockerized LAMP and MEAN stack alternative to XAMPP
